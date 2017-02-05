@@ -1,0 +1,19 @@
+//Question 1
+What happens when you intialize a repository? Why do you need
+to do it?
+
+All the files you have in the directory now fall under the 
+supervision of git, and allow commits and certain git 
+commands like git diff and git log to take place. This is
+essential because now you are able to view different
+versions of the program with ease.
+
+
+//Question 2
+How is the staging area different from the working directory
+and the repository? What value do you think it offers?
+
+The staging area allows me to take a subset of the files in
+my original folder and the commit only the files that I 
+want at that time. I think that is the most efficient way
+to transfer over files into a new repository.
