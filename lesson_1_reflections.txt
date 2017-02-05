@@ -1,0 +1,81 @@
+//Question 1
+How did viewing a diff between two versions of a 
+file help you see the bug that was introduced?
+
+
+Comparing two small files by eye is a simple matter, 
+but once the files gain in size
+it becomes too large of a task. 
+Using FC in the command prompt drastically 
+reduced the amount of time it takes to find errors
+in different versions of the same program.
+
+//Question 2
+How could having easy access to the entire history of a 
+file make you a more efficient programmer in the long term?
+
+
+With access to old files, one can easily review previous attempts
+that may not have worked or may work better with the task at hand.
+It also allows one to know the amount of times a file has been 
+edited, whether it be a lot of times or maybe just a few.
+
+//Question 3
+What do you think are the pros and cons of manually choosing when 
+to create a commit, like you do in Git, vs having versions 
+automatically saved, like Google Docs does?
+
+
+The biggest con seems pretty evident, that being that if you forget
+to create a commit at an important time then you could lose that 
+progress and have to start again from scratch. The pros allow the 
+user to create commits only when he feels necessary and if the user
+is fully submerged in their work they will know what the point is 
+of each and every commit leading to less time looking over updates
+that occurred automatically behind ones back.
+
+
+//Question 4
+Why do you think some version control systems, like Git, allow 
+saving multiple files in one commit, while others, like Google
+Docs, treat each file separately?
+
+
+Git must feel that being able to save multiple files in one commit
+allows the user better control over the project as a whole and makes
+it easier to compare different versions of the same program. Google 
+Docs, on the other hand, might think otherwise and they might feel
+that the user has better control over their program if each file
+must be saved individually.
+
+
+
+//Question 5 
+How can you use the commands git log and git diff to view the 
+history of files?
+
+Git makes it very easy to view all instances of commits as well as 
+comparing them amongst each other. I like it so far.
+
+
+//Question 6
+How might using version control make you more confident to make
+changes that could break something?
+
+Because even if you break something with experimental code, you
+can easily reload a previous version that you know works.
+
+ //Question 7
+ Now that you have your workspace set up, what do you want to 
+ try using Git for?
+ 
+ I plan on using Git during our software development group project,
+ as it will allow for more versatility while changing my code. 
+
+
+
+
+
+
+
+
