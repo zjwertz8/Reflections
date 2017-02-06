@@ -14,3 +14,14 @@ repository?
 There may be experimental code placed on Github by a coworker
 that you may not think is necessary. If Git automatically made
 you pull those changes it could get pretty annoying
+
+//Question 3
+Describe the differences between forks, clones, and branches. 
+When would you use one instead of another?
+
+Branches simply relate to the chain of commits on your local
+repository. Cloning involves copying ones entire repository
+and moving it to your local workstation. Forking is an 
+application of Github and allows you to copy ones repository
+and move it to your own workspace on Github. From there you can
+clone it to your local computer.
