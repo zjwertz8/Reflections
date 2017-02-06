@@ -1,5 +1,16 @@
 //Question 1
-When would you want to create a remote repository rather than keeping all your work local?
+When would you want to create a remote repository rather than
+keeping all your work local?
 
-An obvious example lies with a group project, when everyone needs a place to keep and 
-update files and where everyone can view them and the changes made.
+An obvious example lies with a group project, when everyone 
+needs a place to keep and update files and where everyone can
+view them and the changes made.
+
+//Question 2
+Why might you want to always pull changes manually rather than 
+having Git automatically stay up-to-date with your remote 
+repository?
+
+There may be experimental code placed on Github by a coworker
+that you may not think is necessary. If Git automatically made
+you pull those changes it could get pretty annoying

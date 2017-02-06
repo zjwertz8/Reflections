@@ -17,3 +17,64 @@ The staging area allows me to take a subset of the files in
 my original folder and the commit only the files that I 
 want at that time. I think that is the most efficient way
 to transfer over files into a new repository.
+
+//Question 3
+How can you use the staging area to make sure you have one
+commit per logical change?
+
+If you make a rather insignificant change to one file you
+can move that to the staging area and then when you make
+a change to another file that you find logical you can
+easily commit both of them at the same time in one commit.
+
+
+//Question 4
+What are some situations when branches would be helpful
+in keeping your history organized? How would branches 
+help?
+
+Like mentioned in the video, having branches allows 
+the user to try out different versions of the same
+file and not have them affect the master branch which 
+continues on with further commits.
+
+
+//Question 5
+How do the diagrams help you visualize the branch 
+structure?
+
+The diagram made it much easier to understand the layout
+of multiple branches. Each commit has a parent commit on 
+the same branch and it can access information only from
+the path set by the parent commit.
+
+
+//Question 6
+What is the result of merging two branches together?
+Why do we represent it in the diagram the way we do?
+
+The reason it was represented with the diagram is 
+because it is a good way to show the accessibility of
+each branch in regards to each commits parent. The 
+result of merging two branches allows the user to 
+combine the total works of two separate strands of 
+code experimentation into one product.
+
+//Question 7
+What are the pros and cons of Git's automatic merging
+vs. always doing merges manually?
+
+If you have to manually merge commits everytime it 
+would take forever, as you have to examine the issues
+with the code and find a compromise. The pros allow 
+you to easily merge two different ideas into one commit,
+allowing you to easily continue on your task.
+
+
+
+
+
+
+
+
+
